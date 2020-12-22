@@ -1229,7 +1229,7 @@
                                                     "command": "EVENT_IF_INPUT",
                                                     "args": {
                                                         "input": [
-                                                            "a"
+                                                            "b"
                                                         ],
                                                         "__collapseElse": false,
                                                         "__disableElse": true
@@ -1331,7 +1331,7 @@
                                                     "command": "EVENT_IF_INPUT",
                                                     "args": {
                                                         "input": [
-                                                            "a"
+                                                            "b"
                                                         ],
                                                         "__collapseElse": false,
                                                         "__disableElse": true
@@ -3990,25 +3990,25 @@
                             "args": {
                                 "variable": "L4",
                                 "choices": 11,
-                                "__collapseCase0": true,
+                                "__collapseCase0": false,
                                 "value0": 33,
-                                "__collapseCase1": true,
+                                "__collapseCase1": false,
                                 "value1": 34,
-                                "__collapseCase2": true,
+                                "__collapseCase2": false,
                                 "value2": 35,
-                                "__collapseCase3": true,
+                                "__collapseCase3": false,
                                 "value3": 36,
-                                "__collapseCase4": true,
+                                "__collapseCase4": false,
                                 "value4": 37,
-                                "__collapseCase5": true,
+                                "__collapseCase5": false,
                                 "value5": 38,
-                                "__collapseCase6": true,
+                                "__collapseCase6": false,
                                 "value6": 39,
-                                "__collapseCase7": true,
+                                "__collapseCase7": false,
                                 "value7": 40,
-                                "__collapseCase8": true,
+                                "__collapseCase8": false,
                                 "value8": 41,
-                                "__collapseCase9": true,
+                                "__collapseCase9": false,
                                 "value9": 42,
                                 "__collapseCase10": true,
                                 "value10": 43,
@@ -4043,7 +4043,7 @@
                                                     "command": "EVENT_IF_INPUT",
                                                     "args": {
                                                         "input": [
-                                                            "a"
+                                                            "b"
                                                         ],
                                                         "__collapseElse": false,
                                                         "__disableElse": true
@@ -4160,7 +4160,7 @@
                                                     "command": "EVENT_IF_INPUT",
                                                     "args": {
                                                         "input": [
-                                                            "a"
+                                                            "b"
                                                         ],
                                                         "__collapseElse": false,
                                                         "__disableElse": true
@@ -4277,7 +4277,7 @@
                                                     "command": "EVENT_IF_INPUT",
                                                     "args": {
                                                         "input": [
-                                                            "a"
+                                                            "b"
                                                         ],
                                                         "__collapseElse": false,
                                                         "__disableElse": true
@@ -4394,7 +4394,7 @@
                                                     "command": "EVENT_IF_INPUT",
                                                     "args": {
                                                         "input": [
-                                                            "a"
+                                                            "b"
                                                         ],
                                                         "__collapseElse": false,
                                                         "__disableElse": true
@@ -4511,7 +4511,7 @@
                                                     "command": "EVENT_IF_INPUT",
                                                     "args": {
                                                         "input": [
-                                                            "a"
+                                                            "b"
                                                         ],
                                                         "__collapseElse": false,
                                                         "__disableElse": true
@@ -4628,7 +4628,7 @@
                                                     "command": "EVENT_IF_INPUT",
                                                     "args": {
                                                         "input": [
-                                                            "a"
+                                                            "b"
                                                         ],
                                                         "__collapseElse": false,
                                                         "__disableElse": true
@@ -4745,7 +4745,7 @@
                                                     "command": "EVENT_IF_INPUT",
                                                     "args": {
                                                         "input": [
-                                                            "a"
+                                                            "b"
                                                         ],
                                                         "__collapseElse": false,
                                                         "__disableElse": true
@@ -4862,7 +4862,7 @@
                                                     "command": "EVENT_IF_INPUT",
                                                     "args": {
                                                         "input": [
-                                                            "a"
+                                                            "b"
                                                         ],
                                                         "__collapseElse": false,
                                                         "__disableElse": true
@@ -4979,7 +4979,7 @@
                                                     "command": "EVENT_IF_INPUT",
                                                     "args": {
                                                         "input": [
-                                                            "a"
+                                                            "b"
                                                         ],
                                                         "__collapseElse": false,
                                                         "__disableElse": true
@@ -7886,25 +7886,25 @@
                             "args": {
                                 "variable": "L2",
                                 "choices": 11,
-                                "__collapseCase0": true,
+                                "__collapseCase0": false,
                                 "value0": 54,
-                                "__collapseCase1": true,
+                                "__collapseCase1": false,
                                 "value1": 55,
-                                "__collapseCase2": true,
+                                "__collapseCase2": false,
                                 "value2": 56,
-                                "__collapseCase3": true,
+                                "__collapseCase3": false,
                                 "value3": 57,
-                                "__collapseCase4": true,
+                                "__collapseCase4": false,
                                 "value4": 58,
-                                "__collapseCase5": true,
+                                "__collapseCase5": false,
                                 "value5": 59,
-                                "__collapseCase6": true,
+                                "__collapseCase6": false,
                                 "value6": 60,
-                                "__collapseCase7": true,
+                                "__collapseCase7": false,
                                 "value7": 61,
-                                "__collapseCase8": true,
+                                "__collapseCase8": false,
                                 "value8": 62,
-                                "__collapseCase9": true,
+                                "__collapseCase9": false,
                                 "value9": 63,
                                 "__collapseCase10": false,
                                 "value10": 64,
@@ -7939,7 +7939,7 @@
                                                     "command": "EVENT_IF_INPUT",
                                                     "args": {
                                                         "input": [
-                                                            "a"
+                                                            "b"
                                                         ],
                                                         "__collapseElse": false,
                                                         "__disableElse": true
@@ -8056,7 +8056,7 @@
                                                     "command": "EVENT_IF_INPUT",
                                                     "args": {
                                                         "input": [
-                                                            "a"
+                                                            "b"
                                                         ],
                                                         "__collapseElse": false,
                                                         "__disableElse": true
@@ -8173,7 +8173,7 @@
                                                     "command": "EVENT_IF_INPUT",
                                                     "args": {
                                                         "input": [
-                                                            "a"
+                                                            "b"
                                                         ],
                                                         "__collapseElse": false,
                                                         "__disableElse": true
@@ -8290,7 +8290,7 @@
                                                     "command": "EVENT_IF_INPUT",
                                                     "args": {
                                                         "input": [
-                                                            "a"
+                                                            "b"
                                                         ],
                                                         "__collapseElse": false,
                                                         "__disableElse": true
@@ -8407,7 +8407,7 @@
                                                     "command": "EVENT_IF_INPUT",
                                                     "args": {
                                                         "input": [
-                                                            "a"
+                                                            "b"
                                                         ],
                                                         "__collapseElse": false,
                                                         "__disableElse": true
@@ -8524,7 +8524,7 @@
                                                     "command": "EVENT_IF_INPUT",
                                                     "args": {
                                                         "input": [
-                                                            "a"
+                                                            "b"
                                                         ],
                                                         "__collapseElse": false,
                                                         "__disableElse": true
@@ -8641,7 +8641,7 @@
                                                     "command": "EVENT_IF_INPUT",
                                                     "args": {
                                                         "input": [
-                                                            "a"
+                                                            "b"
                                                         ],
                                                         "__collapseElse": false,
                                                         "__disableElse": true
@@ -8758,7 +8758,7 @@
                                                     "command": "EVENT_IF_INPUT",
                                                     "args": {
                                                         "input": [
-                                                            "a"
+                                                            "b"
                                                         ],
                                                         "__collapseElse": false,
                                                         "__disableElse": true
@@ -8875,7 +8875,7 @@
                                                     "command": "EVENT_IF_INPUT",
                                                     "args": {
                                                         "input": [
-                                                            "a"
+                                                            "b"
                                                         ],
                                                         "__collapseElse": false,
                                                         "__disableElse": true
@@ -8992,7 +8992,7 @@
                                                     "command": "EVENT_IF_INPUT",
                                                     "args": {
                                                         "input": [
-                                                            "a"
+                                                            "b"
                                                         ],
                                                         "__collapseElse": false,
                                                         "__disableElse": true
@@ -9109,7 +9109,7 @@
                                                     "command": "EVENT_IF_INPUT",
                                                     "args": {
                                                         "input": [
-                                                            "a"
+                                                            "b"
                                                         ],
                                                         "__collapseElse": false,
                                                         "__disableElse": true
@@ -11788,15 +11788,15 @@
                                 "value1": 77,
                                 "__collapseCase2": true,
                                 "value2": 78,
-                                "__collapseCase3": true,
+                                "__collapseCase3": false,
                                 "value3": 79,
-                                "__collapseCase4": true,
+                                "__collapseCase4": false,
                                 "value4": 80,
-                                "__collapseCase5": true,
+                                "__collapseCase5": false,
                                 "value5": 81,
-                                "__collapseCase6": true,
+                                "__collapseCase6": false,
                                 "value6": 82,
-                                "__collapseCase7": true,
+                                "__collapseCase7": false,
                                 "value7": 83,
                                 "__collapseCase8": true,
                                 "value8": 84,
@@ -12186,7 +12186,7 @@
                                                     "command": "EVENT_IF_INPUT",
                                                     "args": {
                                                         "input": [
-                                                            "a"
+                                                            "b"
                                                         ],
                                                         "__collapseElse": false,
                                                         "__disableElse": true
@@ -12303,7 +12303,7 @@
                                                     "command": "EVENT_IF_INPUT",
                                                     "args": {
                                                         "input": [
-                                                            "a"
+                                                            "b"
                                                         ],
                                                         "__collapseElse": false,
                                                         "__disableElse": true
@@ -12420,7 +12420,7 @@
                                                     "command": "EVENT_IF_INPUT",
                                                     "args": {
                                                         "input": [
-                                                            "a"
+                                                            "b"
                                                         ],
                                                         "__collapseElse": false,
                                                         "__disableElse": true
@@ -12537,7 +12537,7 @@
                                                     "command": "EVENT_IF_INPUT",
                                                     "args": {
                                                         "input": [
-                                                            "a"
+                                                            "b"
                                                         ],
                                                         "__collapseElse": false,
                                                         "__disableElse": true
@@ -22274,7 +22274,7 @@
                                                     "command": "EVENT_IF_INPUT",
                                                     "args": {
                                                         "input": [
-                                                            "a"
+                                                            "b"
                                                         ],
                                                         "__collapseElse": false,
                                                         "__disableElse": true
@@ -22391,7 +22391,7 @@
                                                     "command": "EVENT_IF_INPUT",
                                                     "args": {
                                                         "input": [
-                                                            "a"
+                                                            "b"
                                                         ],
                                                         "__collapseElse": false,
                                                         "__disableElse": true
@@ -22508,7 +22508,7 @@
                                                     "command": "EVENT_IF_INPUT",
                                                     "args": {
                                                         "input": [
-                                                            "a"
+                                                            "b"
                                                         ],
                                                         "__collapseElse": false,
                                                         "__disableElse": true
@@ -22625,7 +22625,7 @@
                                                     "command": "EVENT_IF_INPUT",
                                                     "args": {
                                                         "input": [
-                                                            "a"
+                                                            "b"
                                                         ],
                                                         "__collapseElse": false,
                                                         "__disableElse": true
@@ -23520,7 +23520,7 @@
                                                     "command": "EVENT_IF_INPUT",
                                                     "args": {
                                                         "input": [
-                                                            "a"
+                                                            "b"
                                                         ],
                                                         "__collapseElse": false,
                                                         "__disableElse": true
@@ -23637,7 +23637,7 @@
                                                     "command": "EVENT_IF_INPUT",
                                                     "args": {
                                                         "input": [
-                                                            "a"
+                                                            "b"
                                                         ],
                                                         "__collapseElse": false,
                                                         "__disableElse": true
@@ -23754,7 +23754,7 @@
                                                     "command": "EVENT_IF_INPUT",
                                                     "args": {
                                                         "input": [
-                                                            "a"
+                                                            "b"
                                                         ],
                                                         "__collapseElse": false,
                                                         "__disableElse": true
@@ -23871,7 +23871,7 @@
                                                     "command": "EVENT_IF_INPUT",
                                                     "args": {
                                                         "input": [
-                                                            "a"
+                                                            "b"
                                                         ],
                                                         "__collapseElse": false,
                                                         "__disableElse": true
@@ -23988,7 +23988,7 @@
                                                     "command": "EVENT_IF_INPUT",
                                                     "args": {
                                                         "input": [
-                                                            "a"
+                                                            "b"
                                                         ],
                                                         "__collapseElse": false,
                                                         "__disableElse": true
@@ -24105,7 +24105,7 @@
                                                     "command": "EVENT_IF_INPUT",
                                                     "args": {
                                                         "input": [
-                                                            "a"
+                                                            "b"
                                                         ],
                                                         "__collapseElse": false,
                                                         "__disableElse": true
@@ -24222,7 +24222,7 @@
                                                     "command": "EVENT_IF_INPUT",
                                                     "args": {
                                                         "input": [
-                                                            "a"
+                                                            "b"
                                                         ],
                                                         "__collapseElse": false,
                                                         "__disableElse": true
@@ -25468,7 +25468,7 @@
                                                     "command": "EVENT_IF_INPUT",
                                                     "args": {
                                                         "input": [
-                                                            "a"
+                                                            "b"
                                                         ],
                                                         "__collapseElse": false,
                                                         "__disableElse": true
@@ -25585,7 +25585,7 @@
                                                     "command": "EVENT_IF_INPUT",
                                                     "args": {
                                                         "input": [
-                                                            "a"
+                                                            "b"
                                                         ],
                                                         "__collapseElse": false,
                                                         "__disableElse": true
@@ -25702,7 +25702,7 @@
                                                     "command": "EVENT_IF_INPUT",
                                                     "args": {
                                                         "input": [
-                                                            "a"
+                                                            "b"
                                                         ],
                                                         "__collapseElse": false,
                                                         "__disableElse": true
@@ -31613,11 +31613,18 @@
             "tileColors": [],
             "script": [
                 {
+                    "id": "24dc13a5-8d7c-4506-bdbd-6b768adc835e",
+                    "command": "EVENT_ACTOR_HIDE",
+                    "args": {
+                        "actorId": "$self$"
+                    }
+                },
+                {
                     "id": "69c9266a-fffe-4f0e-9795-3e0d5623a30b",
                     "command": "EVENT_GROUP",
                     "args": {
                         "__label": "resetNotes",
-                        "__collapse": false
+                        "__collapse": true
                     },
                     "children": {
                         "true": [
@@ -32527,7 +32534,7 @@
             "imageHeight": 144,
             "filename": "merryChristmas.png",
             "inode": "8599572154",
-            "_v": 1608654125107
+            "_v": 1608673667585
         },
         {
             "id": "b4d9c5f9-75d6-4783-b939-591d4f760877",
@@ -33387,9 +33394,9 @@
         "startY": 13,
         "showCollisions": true,
         "showConnections": true,
-        "worldScrollX": 5824,
-        "worldScrollY": 518,
-        "zoom": 319.8652836307883,
+        "worldScrollX": 4080,
+        "worldScrollY": 216,
+        "zoom": 238.4904127344489,
         "customColorsEnabled": false,
         "defaultBackgroundPaletteIds": [
             "default-bg-1",
